@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+}
+
+div {
+    background-color: blue;
+}
+
+.container {
+    height: 200px;
+    width: 200px;
+    padding: 25px;
+    background-color: green;
+    border: black solid 5px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+#child-one {
+    height: 50%;
+    width: 100px;
+    background-color: greenyellow;
+}
+
+#child-three {
+    height: 50%;
+    width: 100px;
+    background-color: purple;
+}
+
+#child {
+
+}
+
+button:hover {
+    background-color: red;
+    cursor: pointer;
+}
